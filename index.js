@@ -15,3 +15,8 @@ class Person{
 //来回做修改露
 console.log('修改呀')
 //线上做了修改了
+
+function wangshuai(){
+    
+}
+
