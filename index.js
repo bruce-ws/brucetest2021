@@ -11,3 +11,6 @@ class Person{
         this.name = 'dev-name'
     }
 }
+
+//来回做修改露
+console.log('修改呀')
