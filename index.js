@@ -6,3 +6,8 @@ alert('项目开发')
 function fn(){
     console.log('主分支添加了功能')
 }
+class Person{
+    constructor(){
+        this.name = 'dev-name'
+    }
+}
